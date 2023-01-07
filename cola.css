@@ -1,0 +1,448 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+body{
+    overflow-x: hidden;
+}
+
+ul{
+    list-style-type: none;
+}
+.header{
+    width: 100%;
+    height: 75px;
+    background : white;
+    display: flex;
+    position: fixed;
+}
+.company-tag{
+    padding: 25px;
+}
+.logo{
+    padding-left: 20px;
+}
+.logo-img{
+    min-width: 30px;
+    min-height: 30px;
+    height: 34px;
+    width: 167px;
+    margin-right: 10px;
+    padding-left: 118px;
+    padding-top: 20px;
+}
+
+
+    
+a{
+    color: black;
+    text-decoration: none;
+    font-family: TCCC-UnityText-Regular;
+    font-size: 18px;
+}
+.search{
+
+    min-width: 22px;
+    min-height: 12px;
+    height: 16px;
+    width: 18px;
+    margin-right: 10px;
+    padding-left: 1218px;
+    padding-top: 24px;
+    position: absolute;
+}
+
+.global{
+    
+    min-width: 29px;
+    min-height: 14px;
+    height: 16px;
+    width: 25px;
+    margin-right: 10px;
+    padding-left: 1251px;
+    padding-top: 20px;
+    position: absolute;
+    
+}
+
+.firstimage{
+
+    min-width: 30px;
+    min-height: 30px;
+    height: 600px;
+    width: 100%;
+    margin-right: 10px;
+    padding-left: -4px;
+    padding-top: -2px;
+    
+}
+.side1{
+    
+    top: -59%;
+    margin-left: 1300px;
+    width: 14px;
+    position: relative;
+}
+.secondimage{
+    min-width: 30px;
+    min-height: 30px;
+    height: 527px;
+    width: 100%;
+    margin-right: 10px;
+    padding-left: -8px;
+    padding-top: -2px;
+    
+}
+.side2{
+    top: -93%;
+    margin-left: 1300px;
+    width: 14px;
+    position: relative;
+}
+
+
+.third-img{
+    height: 512px;
+    width: 100%;
+}
+.side3{
+    top: -84%;
+    margin-left: 1300px;
+    width: 14px;
+    position: relative;
+}
+.fourth-img{
+    height: 512px;
+    width: 100%; 
+}
+.side4{
+    top: -80%;
+    margin-left: 1300px;
+    width: 14px;
+    position: relative;
+}
+.mainthird{
+    display: flex;
+}
+.fifth-img{
+    height: 530px;
+    width: 100%; 
+}
+.side5{
+    top: -76%;
+    margin-left: 1300px;
+    width: 14px;
+    position: relative;
+}
+.sixth-img{
+    height: 490px;
+    width: 100%; 
+}
+.side6{
+    top: -70%;
+    margin-left: 1300px;
+    width: 14px;
+    position: relative;
+}
+footer{
+    width: 100%;
+    height: 200px; 
+    padding-inline: 74px;
+    background-color:#464444;
+}
+.footerimg{
+    in-width: 30px;
+    min-height: 30px;
+    height: 64px;
+    width: 231px;
+    margin-right: 7px;
+    padding-left: -4px;
+    padding-top: 5px;
+    display: flex;
+
+}
+
+
+.firstpara{
+    position: absolute;
+    top: 27%;
+    padding: 7px;
+    color: beige;
+}
+.firstpara h5{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    word-wrap:break-word;
+    padding-left: 145px;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 38px;
+    line-height: 2.375rem;
+    color: white;
+
+
+}
+.firstpara h4{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-left: 145px;
+}
+.firstpara h3{
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-left: 145px;
+}
+.firstpara h2{
+    font-size: 19px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-left: 662px;
+    padding-top: 25px;
+}
+.secondtext{
+    position: absolute;
+    top: 50%;
+    padding: 20px;
+    color: beige;
+
+}
+.secondtext h5{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 385px;
+    word-wrap:break-word;
+    padding-left: 145px;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 915px;
+    padding-top: 375px;
+
+}
+.secondh4{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 300px;
+    padding-left: 934px;
+    padding-top: 472px;
+    position: absolute;
+    top: 50%;
+    color: white;
+    
+    
+
+
+}
+.secondh3{
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-left: 936px;
+    padding-top: 590px;
+    position: absolute;
+    top: 50%;
+    color: white;
+}
+.secondh2{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-left: 658px;
+    padding-top: 727px;
+    position: absolute;
+    top: 50%;
+    color: white;
+}
+.thirdtext{
+    position: absolute;
+    top: 50%;
+    padding: 20px;
+    color: beige;
+
+}
+.thirdtext h5{
+    font-weight: bold;
+    margin-bottom: 385px;
+    word-wrap: break-word;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 26px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 80px;
+    padding-top: 910px;
+}
+.thirdh4{
+    font-weight: bold;
+    margin-bottom: 385px;
+    word-wrap: break-word;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 100px;
+    padding-top: 1010px;
+    position: absolute;
+    top: 50%;
+}
+.thirdh3{
+    font-weight: bold;
+    margin-bottom: 385px;
+    word-wrap: break-word;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 100px;
+    padding-top: 1089px;
+    position: absolute;
+    top: 50%;
+}
+.thirdh2{
+    font-weight: bold;
+    margin-bottom: 385px;
+    word-wrap: break-word;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 614px;
+    padding-top: 1240px;
+    position: absolute;
+    top: 50%;
+}
+.fourthtext{
+
+    position: absolute;
+    top: 50%;
+    padding: 20px;
+    color: beige;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    padding-top: 105%;
+    padding-left: 924px;
+}
+
+.fourth2{
+    font-weight: bold;
+    word-wrap: break-word;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 649px;
+    padding-top: 1725px;
+    position: absolute;
+    top: 50%;
+   
+}
+
+.fifthtext{
+    position: absolute;
+    top: 50%;
+    padding: 20px;
+    color: beige;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    padding-top: 152%;
+    padding-left: 924px;
+    font-size: 20px;
+}
+.fifth3{
+    font-weight: bold;
+    word-wrap: break-word;
+    font-family: "TCCC-UnityText-Regular", "TCCC-UnityText", sans-serif;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 1.375rem;
+    color: white;
+    padding-left: 649px;
+    padding-top: 2295px;
+    position: absolute;
+    top: 50%;
+    font-size: 20px;
+   
+}
+
+.sixthtext{
+    position: absolute;
+    top: 50%;
+    padding: 20px;
+    color: beige;
+    padding-top: 184%;
+    padding-left: 176px;
+    font-size: 20px;
+}
+.footertext
+{
+    position: absolute;
+    top: 3204px;
+    left: 359px;
+    color: beige;
+    font-size: 20px;
+}
+.footertext2{
+    position: absolute;
+    top: 3251px;
+    left: 80px;
+    color: beige;
+    font-size: 18px;
+}
+.footertext3{
+    position: absolute;
+    top: 3283px;
+    left: 79px;
+    color: white;
+    font-size: 18px;
+}
+.footerimage1{
+    height: 47px;
+    width: 228px;
+    padding-left: 339px;
+    padding-top: 42px;
+    display: flex;
+}
+.footerimage2{
+    height: 47px;
+    position: absolute;
+    width: 228px;
+    padding-left: 438px;
+    padding-top: 42px;
+    display: flex;
+
+}
+.footerimage3{
+    height: 45px;
+    width: 52px;
+    padding-top: 42px;
+    display: flex;
+    position: absolute;
+    left: 546px;
+}
+.footerimage4{
+    height: 45px;
+    width: 44px;
+    left: 573px;
+    padding-top: 43px;
+    display: flex;
+    position: absolute;
+}
+.footerimage5{
+    height: 45px;
+    width: 44px;
+    left: 596px;
+    padding-top: 43px;
+    display: flex;
+    position: absolute;
+}
+.footertext3 a{
+color: aliceblue;
+text-decoration: underline;
+}
